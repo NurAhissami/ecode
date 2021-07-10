@@ -6,13 +6,10 @@ This app allows the user to create a digital card with their data: full name, po
 
 We area a team of five students and we used html, sass and javascript partials compiled with node/gulp.
 
-We received the following design,
 
-![screenshot of original landing ]()
+![screenshot of our design ](https://raw.githubusercontent.com/NurAhissami/ecode/master/landing.png)
 
-but we felt we wanted to improve the project by adding a extra value: a meaningful design: Botanical Profile Cards
-
-![screenshot of our design ]()
+![screenshot form ](https://raw.githubusercontent.com/NurAhissami/ecode/master/form.png)
 
 **- Requirements**
 
