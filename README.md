@@ -1,31 +1,90 @@
-¡Hola! Este es el equipo 4 para el proyecto "Crea tu tarjeta de visita", en el que ponemos en práctica todo el conocimiento aprendido durante el segundo módulo sobre programación con JavaScript.
+## ecode
 
-Nuestro equipo está integrado por:
+This app allows the user to create a digital card with their data: full name, position and links to their contact details and social network profiles.
 
-- Lucía Enríquez.
-- Kate Quillen.
-- Natalia Martín.
-- Nur Ahissami.
-- Beatriz Mendoza.
+We area a team of five students and we used html, sass and javascript partials compiled with node/gulp.
 
-Lo primero que hemos hecho ha sido crear un repositorio en GitHub, y una vez creado y clonado hemos añadido la template del Starter Kit de Adalab y lo hemos publicado con el GitHub Pages.
+We received the following design,
 
-Antes de empezar a programar con Java, ¡vamos a maquetar!:
+![screenshot of original landing ]()
 
-Por un lado:
+but we felt we wanted to improve the project by adding a extra value: a meaningful design: Botanical Profile Cards
 
-- Hemos usado una estructura ordenada de ficheros y carpetas, los cuales están enlazados con sus respectivos ficheros.
+![screenshot of our design ]()
 
-En cuanto a la maquetación con HTML:
+**- Requirements**
 
-- Todo el código está perfectamente indentado.
-- La sintáxis y semántica está estructurada desde nuestro criterio, de una manera fácil de entender.
+The project consists of 2 pages
 
-Respecto a la maquetación con CSS/Sass:
+- a welcome page
+- a page with the application to create cards
 
-- Todo el código está perfectamente indentado.
-- Hemos dividio el Sass en varios partials para que nos resulte más cómodo y ordenado, y los hemos enlazado correctamente al fichero principal.
-- Hemos creado otro fichero a parte para las variables, en las cuales hemos añadido la paleta de colores y la tipografía que se pide para luego enlazarlas comodamente en cada clase.
+The application work through this steps:
 
-* Agradecimientos
-  A Iván, Dayana y Miguel por todo el esfuerzo que han hecho por enseñarnos algo completamente nuevo para nosotras.
+- Allow the user to choose the style of the profile card, by 3 color palettes and the possibility of adding an extra frame or not.
+
+
+- Allow the user to preview the result of the data introduced in the preview card.
+
+- Check that the information provided by the user is correct. If it is not, show an error message .
+
+- Allow the user to create and share a web with is profile card and share it in Twitter
+
+- Data is saved in the Local Storage and showed in the preview card.
+
+- Modifications in data or design will automatically appear in the preview card.
+
+- Data has format restriction as indicated.
+
+- The different design sections are collapsible when clicked.
+
+## Learnings 💡
+
+- Learning basic concepts of programming.
+- Learning how to manipulate the Document Object Model, with event listeners, to change your page in response to user actions.
+- To handle complex data structures, with arrays and objects.
+- To request data to the server and store data locally.
+
+## Tools 💻
+
+- JavaScript
+- HTML 5
+- Node - Gulp
+- CSS - SASS.
+
+## How to run this project? :point_down:
+
+- You need to have Node.js installed
+
+- Clone or download the repository in your computer.
+
+To install local dependencies, type:
+
+#### `npm install`
+
+Also, you need to install React Route and SASS:
+
+#### `npm install node-sass`
+
+In the project directory, type:
+
+#### `npm start`
+
+This runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+You can also create a docs folder by running #### `npm run docs`
+
+## Team 👋
+
+This project was created by Livecode Team:
+
+Nur Ahissami Yordi 
+
+Lucia Enriquez 
+
+Beatriz Mendoza 
+
+Kate Quillen 
+
+Natalia Martín 
