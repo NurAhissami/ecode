@@ -1,5 +1,4 @@
 ## ecode
-![logotipe ](https://raw.githubusercontent.com/NurAhissami/ecode/master/logo-ecode.png)
 
 
 This app allows the user to create a digital card with their data: full name, position and links to their contact details and social network profiles.
@@ -76,7 +75,7 @@ You can also create a docs folder by running #### `npm run docs`
 
 ## Team 👋
 
-This project was created by Livecode Team:
+This project was created by:
 
 Nur Ahissami Yordi 
 
